@@ -1,6 +1,6 @@
 name = "VideoCaptureWrap_jll"
 uuid = "b69a920f-0f27-5c26-a11f-67bef8892cc7"
-version = "0.1.7+0"
+version = "0.2.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
