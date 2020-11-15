@@ -1,28 +1,28 @@
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ca1ffd2723816db8317fff5769797149c9d8d4d"
+git-tree-sha1 = "6073c57b5d163d4850ba7602ade092471c858923"
 os = "macos"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "660feaf275584f09bb2298529e3cea11e48e05d51c5d8d1d50a7e3a906cf0165"
-    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.3.1+0/VideoCaptureWrap.v0.3.1.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "9653ba5662776c4e8e1907df40e4c60a09fc493917b1a5951d4044a22cb1239d"
+    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.4.0+0/VideoCaptureWrap.v0.4.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b51f0c65ac38307eba582d012ad19ee612d2db45"
+git-tree-sha1 = "f4a1294aa79473fae7fce89add4c022dc7f21ef0"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "54e17117cb9b36e94d8bca969966873fd8494d445e92f3d94588df5122e5837d"
-    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.3.1+0/VideoCaptureWrap.v0.3.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8dfb0ba59ba48630e0195ed08d4b7836df13977042aafa9d38edac05eeb4518e"
+    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.4.0+0/VideoCaptureWrap.v0.4.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "542baf711dbc66d00a07d59a1bd48ce352c868d1"
+git-tree-sha1 = "68ff616c9287c139f4f4f3995abac4934bca8cdf"
 os = "windows"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "10949bb9e726c08040838df120b8cf9bbfe2e46c5bdcbedb062cff7eb386005d"
-    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.3.1+0/VideoCaptureWrap.v0.3.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "81d570e1f2fb5833b0cda644fe3c2c37992774cc998b559c20012bc4fa2af018"
+    url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.4.0+0/VideoCaptureWrap.v0.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
