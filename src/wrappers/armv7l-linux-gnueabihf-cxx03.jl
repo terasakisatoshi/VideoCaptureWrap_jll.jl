@@ -2,7 +2,7 @@
 export libvideocapture
 
 using libcxxwrap_julia_jll
-using OpenCV_jll
+using OpenCVQt_jll
 ## Global variables
 PATH = ""
 LIBPATH = ""
@@ -37,8 +37,8 @@ function __init__()
     # Initialize PATH and LIBPATH environment variable listings
     # From the list of our dependencies, generate a tuple of all the PATH and LIBPATH lists,
     # then append them to our own.
-    foreach(p -> append!(PATH_list, p), (libcxxwrap_julia_jll.PATH_list, OpenCV_jll.PATH_list,))
-    foreach(p -> append!(LIBPATH_list, p), (libcxxwrap_julia_jll.LIBPATH_list, OpenCV_jll.LIBPATH_list,))
+    foreach(p -> append!(PATH_list, p), (libcxxwrap_julia_jll.PATH_list, OpenCVQt_jll.PATH_list,))
+    foreach(p -> append!(LIBPATH_list, p), (libcxxwrap_julia_jll.LIBPATH_list, OpenCVQt_jll.LIBPATH_list,))
 
     global libvideocapture_path = normpath(joinpath(artifact_dir, libvideocapture_splitpath...))
 
