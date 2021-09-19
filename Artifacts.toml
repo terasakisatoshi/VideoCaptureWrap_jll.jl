@@ -28,168 +28,168 @@ os = "macos"
 [[VideoCaptureWrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "47bfd821cfcf58fa0f3f45afb2d2b4ebb7987327"
+git-tree-sha1 = "938d2e139447f0f234927d49c9222fff70a08961"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "ab46fecd1b843b53053eeb650a96e25ab7a21bac9568b56e8f7b86f9368a5825"
+    sha256 = "de7f1a54b1242702dca40d77b94c4ad5e53bc173894f7eef9b4aa3c3c90b0fd8"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e79ad0f421657ea3a390c6b0cdb024b9d012932a"
+git-tree-sha1 = "dff957c6737fbf4a7922f3dae4fa211b46351342"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "7a49c4708c3e5c24488045ef5b9dfc8397f6a44cfb691630de872e0f6e98da38"
+    sha256 = "77bc4df6bba7e7576d5b45485849fa864b8c5616f4ea2daf0752d9ebac883363"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "35912313edc94dd7d3a3f2077b552c6a6eeec87d"
+git-tree-sha1 = "1cc56ccb1489876251be504d3cb668476f1aca9a"
 libc = "musl"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "20e303fb37ebafb6d40a904ed950bfbb44408c40c6d962a74e99ea45f5cd2519"
+    sha256 = "455009177f465b81d9611c616c1815f3ec639d565e9b8f66922a5d203a640954"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.aarch64-linux-musl-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ab24e875f835ad4dc64f9844387ee58a6cfe568"
+git-tree-sha1 = "987652e6661d25409eac4d6ff08c705cb39fc5f1"
 libc = "musl"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "4f2cd83748610b2fb377bbe62f9949a528acd8f9e889bea5dbcf44fea44169a6"
+    sha256 = "6758505ff320489ea2f33252a6c5ce8ca0df67d3a0600ce792c8984adbcd595f"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f0ffb0fc4b944ec8b7cc8c100d0d3e15db0ef128"
+git-tree-sha1 = "8865d04487543c36961631e45aa77711bac72f4e"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "0e731d5b093dd1eb0361555248287ddb8ca7442a4409db07a7bfb7acfc4273f5"
+    sha256 = "2cd83895b54cbb0223109e797e735b87195641d8a1447f6cb6263f2c974d86af"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4025aee0b1fa70365e49518c4628bb1bd3c38c36"
+git-tree-sha1 = "40921c73e873e7f5a0712b394aace0f0bc247afb"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "497c098f63437fbf6f1fa52989ff35b63ad7993c72264652a1ddca90ba9217b2"
+    sha256 = "79b4f97ee1d22e0c7d0b3126000367273413c690559a4ee29a58612905dd4738"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1b9cc45255e9902226078ff8dbcdf39ef30aee5d"
+git-tree-sha1 = "82878685a5ee6bbe619f91188c1151d2f395a45b"
 libc = "musl"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "21d372be554d13141a6475e32e1213db0f86c7274f44bed3e13c828ab11a92e8"
+    sha256 = "1bd446eed968e668e1eb33e8387c0b688e4b02c17609afa407d2b31a0cb75085"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12b07339c5a71612384eae98d3475efb1024bf62"
+git-tree-sha1 = "0e60b0dec0f415ad02a5f4fc50fe092fae970052"
 libc = "musl"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "97ac2f76240fd94ae9f034f879fb88e72ab6e88e56fe1790630201c66816ca4a"
+    sha256 = "2be7dfb140c63abaecadcd9b5fccdd9a4989fcabf7aab06a3d0f31d3ac926bef"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5c0e13a1e944581942a6b4f2227748821f18dcdb"
+git-tree-sha1 = "ca20d41d8ef30bd9b847f807d106b97d2545d019"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "a6dfb57623c9f752a163fd94fa2f367711a0dcfb52db51618571ba7cf5347f6e"
+    sha256 = "20a20d9ce3fe74a3c58181f78e052c5a140e10ff0f512a9645cb6ca74d199b6e"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.i686-linux-gnu-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "87271e41bfc7f4e5b08c4057dc72e6ee6ee5d637"
+git-tree-sha1 = "f6f89c2a817fb4cbefedba8690818cdc9c84fb9d"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "930041d1d74598bc59135da822d2935e0ae0faacc8e64338cc18bf7cc897a408"
+    sha256 = "8fbeaa50ba0cd82fe651b070d7f987093ad403a054d4215a524aafcec2eafb16"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0b6ee457a8addb0d6db2db17a1b151ee56f81751"
+git-tree-sha1 = "8174dc0bdb7a8dc2a9e621e76107db007d3adf44"
 os = "windows"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "98dd6b5f9f13ec7e5fcc8fe5fe5ff1fec628771a875ab81f71a07ff0b84518b9"
+    sha256 = "565f3ba4fd2934bfd574980aa5179895bb292fe7925138de9622205d1aa3df4b"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.i686-w64-mingw32-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a4b62b1cd27e7f3e5d03c567b653e66f94a6f8d"
+git-tree-sha1 = "8f60bca608923a12ad94da068a8f19e03822610d"
 os = "windows"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "489ebffc90f91ec7bb8e550f5c5555b4f4e52dfd6b2420e1e4ee17a74352c8b8"
+    sha256 = "61e947a849e1dcffe0bcc4655f7191df576cb65d9cdab672a1bb8514f9c170c1"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.i686-w64-mingw32-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
-git-tree-sha1 = "7769f7e0b0ed2c6f2d76469559f3477fd4a69898"
+git-tree-sha1 = "9f96d87a5288d7086a9ececd16d355e818efdb3a"
 os = "macos"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "89450fbf4f84c189e4e9d9fef4b221a370274d3d44c4e59172c902166d9db528"
+    sha256 = "cd0df9ec51c1a9d0e0d32e696970f3b196b5dd573833b885ae710a906d92a4de"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.x86_64-apple-darwin.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "30ddf0ee82d8cffc3156474e8d0858701ece0ab0"
+git-tree-sha1 = "8990ccba36ab7959c17af78da69c2cff54bcf9a7"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "f39d65e80401e564e1835bfd8d6d244450a571a0581d65e6516a6e0329183844"
+    sha256 = "3b63ec83732a7176512e27f5920608af1210667b41a7cb70d34685b0f454ec71"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "154b56f6d6274e68a551081f8e4556ab64b09d9b"
+git-tree-sha1 = "8e2897e459e3c14c1a51259d9f00b999f4ff389c"
 libc = "glibc"
 os = "linux"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "cfbf1e8a686ff34361ae086ce8af8e7e0cca97d89a1a0d756028ce25fd802856"
+    sha256 = "8cce07fb79d932f7ed479c5ae8887f42e513667f54804a3369fb7f6b73f2fd6d"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8566ee7404fe0a7ab1b8587aaa9a56e50cdf69b2"
+git-tree-sha1 = "39269a365d7c7f3921a5e338a5d04c5c6f69a07d"
 os = "windows"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "623491bc14b59caac72a5fc2eebd3bc068fc94cd95afc56c5d9cb487d575ce2f"
+    sha256 = "8d322a6e0431bc8e2df919d7b7f1e0301460ba302448a5564d3b5a3f0bd75dac"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[VideoCaptureWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "136dd82e952a9cf6646ffd2899072caffa0b8a3d"
+git-tree-sha1 = "5ab57c38e4623a843862e4a0ef6ad1f0b6958a22"
 os = "windows"
 
     [[VideoCaptureWrap.download]]
-    sha256 = "15ffb346990d63b0c36aeaacefed8ad347d8e87679d738fd5682908056d7318d"
+    sha256 = "8787fd035747bde1535abf6cc9ca3a1b6fd3ff2ea6dba3f7c776d2acaedb1b21"
     url = "https://github.com/terasakisatoshi/VideoCaptureWrap_jll.jl/releases/download/VideoCaptureWrap-v0.9.0+0/VideoCaptureWrap.v0.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
